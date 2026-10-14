@@ -1,3 +1,5 @@
+By mistakenly I ran "rm -rf .git" in gitbash thats why all old commits got deleted
+
 # The Data-Driven Social Engagement Initiative
 
 An end-to-end data science and machine learning project designed to analyze social media content performance, understand audience behavior, identify viral content patterns, analyze audience sentiment and problem awareness, detect emerging trends, and generate data-driven content recommendations.
